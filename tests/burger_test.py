@@ -1,6 +1,4 @@
 import pytest
-from praktikum.burger import Burger
-
 
 class TestBurger:
 
